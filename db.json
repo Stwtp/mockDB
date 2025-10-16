@@ -9,7 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "fullname": "Papyrus Pythagoras",
     "firstname": "Papyrus",
     "lastname": "Pythagoras"
   }
